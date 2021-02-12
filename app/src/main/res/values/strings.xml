@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Livros</string>
+
+    <string name="label_livro">Livro: </string>
+    <string name="label_id">Id: </string>
+    <string name="label_titulo">Título: </string>
+    <string name="label_autor">Autor: </string>
+
+    <string name="label_livros">Livros</string>
+
+    <string name="botaoAlterar">Editar</string>
+    <string name="botaoDeletar">Apagar</string>
+    <string name="botaoSalvar">Salvar</string>
+    <string name="botaoCriar">Novo</string>
+</resources>

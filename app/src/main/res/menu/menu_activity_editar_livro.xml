@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/botaoAlterar"
+        android:id="@+id/actionAlter"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="ifRoom"/>
+
+    <item android:title="@string/botaoDeletar"
+        android:id="@+id/actionDelete"
+        android:icon="@android:drawable/ic_menu_delete"
+        app:showAsAction="ifRoom"/>
+</menu>
