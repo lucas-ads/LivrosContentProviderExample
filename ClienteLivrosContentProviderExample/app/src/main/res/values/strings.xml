@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClienteLivrosContentProviderExample</string>
+    <string name="textviewlivros">Livros:</string>
+</resources>
